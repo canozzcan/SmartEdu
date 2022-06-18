@@ -37,7 +37,9 @@ In this project, Smartedu education portal template was used. After downloading 
 
 
 ## :video: Demo Video
-  
+
+
+https://user-images.githubusercontent.com/102858441/174444099-1d734348-e9a0-43fe-b548-dd3ae4313f23.mov
 
 
 ## :computer: Setup
